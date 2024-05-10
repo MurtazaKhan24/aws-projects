@@ -1,2 +1,2 @@
-# aws-projects
-List of AWS projects to gain hands on experience
+# wildrydes-site
+Serverless Web Application using AWS
