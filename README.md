@@ -1,2 +1,2 @@
-# wildrydes-site
-Serverless Web Application using AWS
+# AWS Projects
+Using AWS services through projects
